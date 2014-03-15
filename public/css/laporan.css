@@ -1,0 +1,73 @@
+/* laporan.css*/
+body {
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+       font-family: verdana,arial,sans-serif;
+    }
+h3 {font-size :20px;}
+table.table-list{
+    border-width: 1px;
+	border-color: #000000;
+	border-collapse: collapse;
+}
+table.table-list th {
+    background-color :#c7c6c6;
+    border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+    line-height :25px;
+    font-size :12px;
+    text-align:left;
+    padding-left :5px;
+    font-weight :bold ;
+}
+table.table-list td {
+    font-size :12px;
+    border-width: 1px;
+	padding: 8px;
+    /*line-height :12px;*/
+	border-style: solid;
+	border-color: #000000;
+}
+
+table.table-jurnal {
+    border-bottom : 1px solid #000000;
+     border-collapse :collapse ;
+}
+table.table-jurnal tr {
+    border-top : 1px solid #000000;
+}
+table.table-jurnal th {
+    background-color :#c7c6c6;
+    line-height :25px;
+    font-size :14px;
+    text-align:left;
+    padding-left :5px;
+    font-weight :bold ;
+    border-bottom : 1px solid #000000;
+    border-top : 1px solid #000000;
+    border-right : 0px;
+}
+table.table-jurnal td {
+    font-size :12px;
+	padding: 8px;
+
+}
+table.table-jurnal tr.hidden {
+    font-size :12px;
+	padding: 8px;
+    border-bottom : 0px ;
+    border-top : 0px ;
+}
+table.table-laporankeluar {  
+    width:30%;
+    float:right;     
+    border-width: 0;
+	border-collapse: collapse;
+}
+table.table-laporankeluar td {   
+    font-size :12px;
+    border-width: 0;
+	padding: 8px;
+}
