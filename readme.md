@@ -2,7 +2,7 @@
 - masih dalam tahap pengembangan
 
 #demo
-- bisa dilihat di <a href="http://kampoeng-goedang.uni.me">Kampoeng Goedang</a>
+- sekarang tidak tersedia
 
 
 #Setting Server
